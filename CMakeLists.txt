@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.5)
 
-project("Vulkan Demo Project")
+project("Vulkan Wrapper Demo")
 
 set(CMAKE_CXX_STANDARD 23)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
